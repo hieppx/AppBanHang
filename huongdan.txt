@@ -1,0 +1,6 @@
+Bước 1:
+Đưa file server vào thư mục htdocs của Xampp
+Bước 2: 
+Import database sanpham.sql vào phpMyAdmin
+Bước 3:
+Import project DoAn vào Android Studio
